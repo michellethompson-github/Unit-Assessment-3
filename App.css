@@ -1,0 +1,27 @@
+.main-content {
+  width:76%;
+  float:left;
+
+}
+
+.sidebar {
+  width: 20%;
+  float:left;
+  border-left:2px solid black;
+  height:800px;
+}
+
+.single-item {
+  width:15%;
+  display:inline-block;
+  padding:40px 5px;
+}
+
+.required-data {
+  overflow:hidden;
+  
+}
+
+.my-img {
+  width:60px;
+}
